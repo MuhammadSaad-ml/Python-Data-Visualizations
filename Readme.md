@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Data -coral"><img src="https://img.shields.io/badge/Build_With-Python-magenta"><img src="https://img.shields.io/badge/Code-pink"><img src="https://img.shields.io/badge/Visualization Course-silver"><img src="https://img.shields.io/badge/Charts-teal"><img src="https://img.shields.io/badge/Data Visualization-darkblue"><img src="https://img.shields.io/badge/Bar Chart-gold"><img src="https://img.shields.io/badge/Data Insights-beige"><img src="https://img.shields.io/badge/Vs Code-purple"><img src="https://img.shields.io/badge/Jupyter-orange"><img src="https://img.shields.io/badge/Jupyter-orange">
+<img src="https://img.shields.io/badge/Data -coral"><img src="https://img.shields.io/badge/Build_With-Python-magenta"><img src="https://img.shields.io/badge/Code-pink"><img src="https://img.shields.io/badge/Visualization Course-silver"><img src="https://img.shields.io/badge/Charts-teal"><img src="https://img.shields.io/badge/Data Visualization-darkblue"><img src="https://img.shields.io/badge/Bar Chart-gold"><img src="https://img.shields.io/badge/Data Insights-beige"><img src="https://img.shields.io/badge/Vs Code-purple"><img src="https://img.shields.io/badge/Jupyter-orange"><img src="https://img.shields.io/badge/Ipynb-yellow"><img src="https://img.shields.io/badge/Knowledge-lawa"><img src="https://img.shields.io/badge/Learning-black"><img src="https://img.shields.io/badge/Dual Axis-brown"><img src="https://img.shields.io/badge/Bar Plot-grey"><img src="https://img.shields.io/badge/Line Plot-white">
 
 # Python Data Visualizations 
 
@@ -24,16 +24,18 @@
   </a>
 </p>
 <br>
+<br>
+<br>
+<br>
+
+### ▶️ Youtube Playlist
 
 [![Setup for Visualization in Python](https://ytcards.demolab.com/?id=6Wl0B_Ib298&title=Setup+for+Visualization+in+Python&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=363 "Setup for Visualization in Python")](https://www.youtube.com/watch?v=6Wl0B_Ib298)
 [![Histogram in Python](https://ytcards.demolab.com/?id=G6Z_I2qensc&title=Histogram+in+Python&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=301 "Histogram in Python")](https://www.youtube.com/watch?v=G6Z_I2qensc)
 [![Pair Plot in Python](https://ytcards.demolab.com/?id=dCwgnw9Tl0I&title=Pair+Plot+in+Python&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=553 "Pair Plot in Python")](https://www.youtube.com/watch?v=dCwgnw9Tl0I)
 
 
-<!-- ## Click On Image To Open Yotube Demo
-[![Example](https://i.imgur.com/63JSZsK.png)](https://www.youtube.com/watch?v=Eh3WtH2dzIk)
 
-## Read the  <a href="https://github.com/MuhammadSaad-ml/Covid-19-Vaccine-Tracker/blame/main/Problem%20Statement%20Project.docx">Problem Statement</a> To Know About The Project -->
 
 
 
