@@ -22,6 +22,9 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img align="left" alt="VS Code" width="40" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
   </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
+    <img align="left" alt="Plotly" width="40" style="padding-right: 10px;" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png"/>
+</a>
 </p>
 <br>
 <br>
